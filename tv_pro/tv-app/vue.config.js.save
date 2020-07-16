@@ -1,0 +1,5 @@
+[;12M[12m;7mmodule.exports = {
+  "transpileDependencies": [
+    "vuetify"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "tv-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "axios": "^0.19.0",
+    "build-assets": "^0.1.0",
+    "core-js": "^3.3.2",
+    "material-components-web": "^0.35.0",
+    "stable": "^0.1.8",
+    "v-animate-css": "0.0.3",
+    "vue": "^2.6.10",
+    "vue-awesome-swiper": "^3.1.3",
+    "vue-axios": "^2.1.5",
+    "vue-burger-menu": "^2.0.3",
+    "vue-debounce": "^2.3.0",
+    "vue-mdc-adapter": "^0.15.0",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-router": "^3.0.1",
+    "vue-scrollto": "^2.18.1",
+    "vue-tel-input": "^4.3.0",
+    "vuetify": "^2.1.0",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-plugin-vuex": "^4.0.5",
+    "@vue/cli-service": "^4.0.0",
+    "add": "^2.0.6",
+    "animate.css": "file:/home/skret002/Desktop/TV-TEMPLATE/tv-app/node_modules/animate.css",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "or": "^0.2.0",
+    "pug": "^2.0.4",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "v-animate-css": "file:/home/skret002/Desktop/TV-TEMPLATE/tv-app/node_modules/v-animate-css",
+    "vue-burger-menu": "file:/home/skret002/Desktop/TV-TEMPLATE/tv-app/node_modules/vue-burger-menu",
+    "vue-cli-plugin-axios": "0.0.4",
+    "vue-cli-plugin-material": "^0.2.3",
+    "vue-cli-plugin-route": "0.0.7",
+    "vue-cli-plugin-vuetify": "^1.1.1",
+    "vue-owl-carousel": "file:/home/skret002/Desktop/TV-ENV/tv_pro/tv-app/node_modules/vue-owl-carousel",
+    "vue-slider": "file:/home/skret002/Desktop/TV-ENV/tv_pro/tv-app/node_modules/vue-slider-master",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.3.0",
+    "webpack-bundle-tracker": "^1.0.0-alpha.1",
+    "webpack-cli": "^3.3.11",
+    "write-file-webpack-plugin": "^4.5.1",
+    "yarn": "^1.22.4"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
